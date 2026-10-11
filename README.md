@@ -17,10 +17,9 @@ I build software that connects systems, data, and AI.
 </p>
 </div>
 
-<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="220">
 
 ## 👤 About Me
-
+<img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="250">
 <p style="text-align: justify;">
 I'm a Software Engineer with enterprise experience in financial services and an M.Eng. in Software Engineering from Western University. I enjoy building reliable systems, exploring applied AI, and 
 turning complex problems into practical solutions.  
